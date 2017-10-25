@@ -8,6 +8,7 @@
 ##### BsDiffYwl5320.dll
 
 ### ÊµÀýÍ¼£º
+![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/patch.gif)<br/>
 ![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/1.png)<br/>
 ![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/2.png)<br/>
 ### ²©¿ÍµØÖ·£º

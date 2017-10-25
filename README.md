@@ -1,11 +1,21 @@
 # BsDiffYwl5320
-## Linux¿â£º
+## Linux²î¿â£º
 ##### BsDiffYwl5320.jar
 ##### libBsDiffYwl5320.so
 
-## Windows¿â
+## Windows²î·Ö¿â
 ##### BsDiffYwl5320.jar
 ##### BsDiffYwl5320.dll
+
+## AndroidºÏ²¢¿â
+##### BsPatchYwl5320Util.jar
+##### arm64-v8a/libBsPatchYwl5320.so
+##### armeabi/libBsPatchYwl5320.so
+##### armeabi-v7a/libBsPatchYwl5320.so
+##### mips/libBsPatchYwl5320.so
+##### mips64/libBsPatchYwl5320.so
+##### x86/libBsPatchYwl5320.so
+##### x86_64/libBsPatchYwl5320.so
 
 ### ÊµÀýÍ¼£º
 ![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/patch.gif)<br/>

@@ -1,1 +1,1 @@
-include ':app', ':bspatchlibrary'
+include ':app'

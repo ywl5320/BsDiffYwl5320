@@ -20,6 +20,7 @@
 
 ### 应用实例：
 #### [移动大脑-SpringMVc搭建RestFul后台服务（七）-增量更新](http://blog.csdn.net/ywl5320/article/details/78426756)
+
 ![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/update1.gif)
 ![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/update2.gif)<br/>
 
@@ -32,5 +33,8 @@
 #### [Android增量更新（一）-差分文件（Windows-part1）](http://blog.csdn.net/ywl5320/article/details/78318648)
 #### [Android增量更新（二）-差分文件（Windows-part1）-dll动态库和jar包](http://blog.csdn.net/ywl5320/article/details/78324601)
 #### [Android增量更新（三）-差分文件（Linux）-生成jar和.so库）](http://blog.csdn.net/ywl5320/article/details/78329205)
+#### [Android增量更新（四）-客户端合并差分包生成新的apk安装包](http://blog.csdn.net/ywl5320/article/details/78338149)
+
+
 
 Create By: ywl5320

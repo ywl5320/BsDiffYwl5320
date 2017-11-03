@@ -1,5 +1,5 @@
 # BsDiffYwl5320
-## Linux差库：
+## Linux差分库：
 ##### BsDiffYwl5320.jar
 ##### libBsDiffYwl5320.so
 
@@ -17,10 +17,17 @@
 ##### x86/libBsPatchYwl5320.so
 ##### x86_64/libBsPatchYwl5320.so
 
+
+### 应用实例：
+#### [移动大脑-SpringMVc搭建RestFul后台服务（七）-增量更新](http://blog.csdn.net/ywl5320/article/details/78426756)
+![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/update1.gif)
+![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/update2.gif)<br/>
+
 ### 实例图：
 ![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/patch.gif)<br/>
 ![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/1.png)<br/>
 ![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/2.png)<br/>
+
 ### 博客地址：
 #### [Android增量更新（一）-差分文件（Windows-part1）](http://blog.csdn.net/ywl5320/article/details/78318648)
 #### [Android增量更新（二）-差分文件（Windows-part1）-dll动态库和jar包](http://blog.csdn.net/ywl5320/article/details/78324601)

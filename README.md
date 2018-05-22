@@ -1,13 +1,17 @@
+
+## [æˆ‘çš„è§†é¢‘è¯¾ç¨‹ï¼ˆåŸºç¡€ï¼‰ï¼šã€Šï¼ˆNDKï¼‰FFmpegæ‰“é€ Androidä¸‡èƒ½éŸ³é¢‘æ’­æ”¾å™¨ã€‹](https://edu.csdn.net/course/detail/6842)
+## [æˆ‘çš„è§†é¢‘è¯¾ç¨‹ï¼ˆè¿›é˜¶ï¼‰ï¼šã€Šï¼ˆNDKï¼‰FFmpegæ‰“é€ Androidè§†é¢‘æ’­æ”¾å™¨ã€‹](https://edu.csdn.net/course/detail/8036)
+
 # BsDiffYwl5320
-## Linux²î·Ö¿â£º
+## Linuxå·®åˆ†åº“ï¼š
 ##### BsDiffYwl5320.jar
 ##### libBsDiffYwl5320.so
 
-## Windows²î·Ö¿â
+## Windowså·®åˆ†åº“
 ##### BsDiffYwl5320.jar
 ##### BsDiffYwl5320.dll
 
-## AndroidºÏ²¢¿â
+## Androidåˆå¹¶åº“
 ##### BsPatchYwl5320Util.jar
 ##### arm64-v8a/libBsPatchYwl5320.so
 ##### armeabi/libBsPatchYwl5320.so
@@ -18,22 +22,22 @@
 ##### x86_64/libBsPatchYwl5320.so
 
 
-### Ó¦ÓÃÊµÀı£º
-#### [ÒÆ¶¯´óÄÔ-SpringMVc´î½¨RestFulºóÌ¨·şÎñ£¨Æß£©-ÔöÁ¿¸üĞÂ](http://blog.csdn.net/ywl5320/article/details/78426756)
+### åº”ç”¨å®ä¾‹ï¼š
+#### [ç§»åŠ¨å¤§è„‘-SpringMVcæ­å»ºRestFulåå°æœåŠ¡ï¼ˆä¸ƒï¼‰-å¢é‡æ›´æ–°](http://blog.csdn.net/ywl5320/article/details/78426756)
 
 ![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/update1.gif)
 ![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/update2.gif)<br/>
 
-### ÊµÀıÍ¼£º
+### å®ä¾‹å›¾ï¼š
 ![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/patch.gif)<br/>
 ![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/1.png)<br/>
 ![image](https://github.com/wanliyang1990/BsDiffYwl5320/blob/master/imgs/2.png)<br/>
 
-### ²©¿ÍµØÖ·£º
-#### [AndroidÔöÁ¿¸üĞÂ£¨Ò»£©-²î·ÖÎÄ¼ş£¨Windows-part1£©](http://blog.csdn.net/ywl5320/article/details/78318648)
-#### [AndroidÔöÁ¿¸üĞÂ£¨¶ş£©-²î·ÖÎÄ¼ş£¨Windows-part1£©-dll¶¯Ì¬¿âºÍjar°ü](http://blog.csdn.net/ywl5320/article/details/78324601)
-#### [AndroidÔöÁ¿¸üĞÂ£¨Èı£©-²î·ÖÎÄ¼ş£¨Linux£©-Éú³ÉjarºÍ.so¿â£©](http://blog.csdn.net/ywl5320/article/details/78329205)
-#### [AndroidÔöÁ¿¸üĞÂ£¨ËÄ£©-¿Í»§¶ËºÏ²¢²î·Ö°üÉú³ÉĞÂµÄapk°²×°°ü](http://blog.csdn.net/ywl5320/article/details/78338149)
+### åšå®¢åœ°å€ï¼š
+#### [Androidå¢é‡æ›´æ–°ï¼ˆä¸€ï¼‰-å·®åˆ†æ–‡ä»¶ï¼ˆWindows-part1ï¼‰](http://blog.csdn.net/ywl5320/article/details/78318648)
+#### [Androidå¢é‡æ›´æ–°ï¼ˆäºŒï¼‰-å·®åˆ†æ–‡ä»¶ï¼ˆWindows-part1ï¼‰-dllåŠ¨æ€åº“å’ŒjaråŒ…](http://blog.csdn.net/ywl5320/article/details/78324601)
+#### [Androidå¢é‡æ›´æ–°ï¼ˆä¸‰ï¼‰-å·®åˆ†æ–‡ä»¶ï¼ˆLinuxï¼‰-ç”Ÿæˆjarå’Œ.soåº“ï¼‰](http://blog.csdn.net/ywl5320/article/details/78329205)
+#### [Androidå¢é‡æ›´æ–°ï¼ˆå››ï¼‰-å®¢æˆ·ç«¯åˆå¹¶å·®åˆ†åŒ…ç”Ÿæˆæ–°çš„apkå®‰è£…åŒ…](http://blog.csdn.net/ywl5320/article/details/78338149)
 
 
 
